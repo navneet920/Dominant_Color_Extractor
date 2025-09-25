@@ -21,14 +21,14 @@ Resize palette width & height
 
 Optional Pie Chart to visualize color proportions
 
-📷 Screenshots
+# 📷 Screenshots
 Upload Image	Generated Palette
 
 	
 
 (Replace screenshots with actual outputs once you run the app)
 
-🛠 Installation
+# 🛠 Installation
 
 Clone the repository and install dependencies:
 
@@ -36,7 +36,7 @@ git clone https://github.com/your-username/dominant-color-extractor.git
 cd dominant-color-extractor
 pip install -r requirements.txt
 
-📦 Requirements
+# 📦 Requirements
 
 Python 3.8+
 
@@ -54,7 +54,7 @@ Install them manually or use:
 
 pip install streamlit scikit-learn pillow matplotlib numpy
 
-▶️ Usage
+# ▶️ Usage
 
 Run the app with:
 
@@ -63,7 +63,7 @@ streamlit run app.py
 
 Then open your browser at http://localhost:8501.
 
-📊 Example Workflow
+# 📊 Example Workflow
 
 Upload your image.
 
@@ -75,7 +75,7 @@ Copy hex codes for use in design projects.
 
 Optionally check “Show Pie Chart” for color distribution.
 
-🧩 Future Enhancements
+# 🧩 Future Enhancements
 
 Make palette colors clickable to copy hex codes.
 
@@ -83,10 +83,10 @@ Support for drag & drop uploads.
 
 Downloadable palette as PNG or JSON.
 
-🤝 Contributing
+# 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to add.
 
-📜 License
+# 📜 License
 
 This project is licensed under the MIT License – feel free to use and modify it.
