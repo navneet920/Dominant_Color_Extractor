@@ -22,7 +22,11 @@ Resize palette width & height
 Optional Pie Chart to visualize color proportions
 
 # 📷 Screenshots
-Upload Image	Generated Palette
+Upload Image
+
+![screenshot (27).png](https://github.com/navneet920/Dominant_Color_Extractor/blob/main/Screenshot%20(26).png)
+
+Generated Palette
 
 	
 
