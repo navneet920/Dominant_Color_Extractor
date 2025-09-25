@@ -30,7 +30,7 @@ Generated Palette
 
 ![screenshot (26).png](https://github.com/navneet920/Dominant_Color_Extractor/blob/main/Screenshot%20(26).png)
 
-show a pic chat Distribution
+show a pie chat Distribution
 
 ![screenshot (27).png](https://github.com/navneet920/Dominant_Color_Extractor/blob/main/Screenshot%20(27).png)
 
